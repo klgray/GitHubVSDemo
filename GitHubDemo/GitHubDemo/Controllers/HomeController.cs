@@ -19,7 +19,7 @@ namespace GitHubDemo.Controllers
             return View();
         }
 
-        public ActionResult Feature2()
+        public ActionResult Feature3()
         {
             return View();
         }
